@@ -1,0 +1,7 @@
+Pengujian Tutorial Kamera : 
+button kamera membuka cam hp dan bisa mengambil foto dan menampilkannya di app,
+button video membuka cam hp untuk merekam dan video tersebut bisa diputar ulang dan ditampilkan di app.
+
+Pengujian Galeri Video :
+tampilan utama memperlihatkan list video yang ada, jika salah satu video ditekan akan menampilkan detail video tersebut.
+ada videonya(auto play), judul video, keterangan video, uri video dan dibawah detail video terdapat tombol kembali untuk ke halaman utama.
