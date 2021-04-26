@@ -1,3 +1,3 @@
 # Mobile-App-Programming
 
-#Do not copy!
+#Do not copy without my permission!
